@@ -1,5 +1,3 @@
-
-import './App.css';
 import News from './components/News';
 import Navbar from './components/navbar';
 import React, { Component } from 'react'
